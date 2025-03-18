@@ -5,6 +5,9 @@ Here's a detailed project structure and implementation guide for the advanced ch
 
 A chatbot that dynamically learns from six provided input links and handles customer queries for cloud hosting services.
 
+![Screenshot 2025-03-18 075124](https://github.com/user-attachments/assets/3f44e0f6-4432-486f-a8e9-965c6ad36ae4)
+
+
 ## 🚀 Features
 - Dynamic learning from company data (FAQs, Products, Services, etc.)
 - Basic intent recognition with NLP.
