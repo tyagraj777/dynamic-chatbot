@@ -18,6 +18,9 @@ A chatbot that dynamically learns from six provided input links and handles cust
 - `tests/`: Unit tests for the project.
 - `config/`: Configuration settings.
 
+![Screenshot 2024-11-25 224354-folder](https://github.com/user-attachments/assets/90a54f25-455e-4c1d-a3ad-796179307f78)
+
+
 ## ⚙️ Setup Instructions
 1. **Clone the repository**:
     ```bash
